@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "py37-venv/bin/python3.7",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "git.ignoreLimitWarning": true
+}
